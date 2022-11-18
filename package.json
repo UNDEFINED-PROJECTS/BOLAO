@@ -1,0 +1,24 @@
+{
+  "name": "bolao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UNDEFINED-PROJECTS/BOLAO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UNDEFINED-PROJECTS/BOLAO/issues"
+  },
+  "homepage": "https://github.com/UNDEFINED-PROJECTS/BOLAO#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6"
+  }
+}
